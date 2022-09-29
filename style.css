@@ -1,0 +1,30 @@
+*{
+    font-size: 15px;
+}
+#Box1{
+    margin: 50px;
+    padding:5px 10px 10px;
+    border: 30px solid rgb(255, 145, 0);
+    
+}
+p{
+    margin: auto;
+    margin-top: 45px;
+    font-size: large;
+    text-align: center;
+    background-color: black;
+    color: brown;
+    width: 90px;
+    
+    
+}
+span{
+    margin-left: 400px;
+    margin-bottom: 120;
+    font-size: large;
+    text-align: center;
+    background-color: black;
+    color: brown;
+    width: 90px;
+    
+}
